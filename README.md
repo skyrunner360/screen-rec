@@ -11,4 +11,4 @@ The Output video and Screenshots are kept in the same folder.
 
 In order to use it you must have python installed on your machine and install the packages from requirements.txt file.
 
-![Alt text](./gitnew.png?raw=true "Interface")
+![Alt text](./gitnew "Interface")
