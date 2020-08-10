@@ -10,3 +10,4 @@ The Output video and Screenshots are kept in the same folder.
 ## Usage
 
 In order to use it you must have python installed on your machine and install the packages from requirements.txt file.
+
